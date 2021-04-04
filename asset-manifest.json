@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nasa-eonet-app/static/css/main.ad195c6c.chunk.css",
+    "main.js": "/nasa-eonet-app/static/js/main.0086858b.chunk.js",
+    "main.js.map": "/nasa-eonet-app/static/js/main.0086858b.chunk.js.map",
+    "runtime-main.js": "/nasa-eonet-app/static/js/runtime-main.69f7f9a2.js",
+    "runtime-main.js.map": "/nasa-eonet-app/static/js/runtime-main.69f7f9a2.js.map",
+    "static/js/2.9d7f4118.chunk.js": "/nasa-eonet-app/static/js/2.9d7f4118.chunk.js",
+    "static/js/2.9d7f4118.chunk.js.map": "/nasa-eonet-app/static/js/2.9d7f4118.chunk.js.map",
+    "static/js/3.454edb30.chunk.js": "/nasa-eonet-app/static/js/3.454edb30.chunk.js",
+    "static/js/3.454edb30.chunk.js.map": "/nasa-eonet-app/static/js/3.454edb30.chunk.js.map",
+    "index.html": "/nasa-eonet-app/index.html",
+    "static/css/main.ad195c6c.chunk.css.map": "/nasa-eonet-app/static/css/main.ad195c6c.chunk.css.map",
+    "static/js/2.9d7f4118.chunk.js.LICENSE.txt": "/nasa-eonet-app/static/js/2.9d7f4118.chunk.js.LICENSE.txt",
+    "static/media/star-spinner.acf56dfe.gif": "/nasa-eonet-app/static/media/star-spinner.acf56dfe.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f7f9a2.js",
+    "static/js/2.9d7f4118.chunk.js",
+    "static/css/main.ad195c6c.chunk.css",
+    "static/js/main.0086858b.chunk.js"
+  ]
+}
